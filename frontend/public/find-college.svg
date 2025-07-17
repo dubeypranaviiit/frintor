@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Background gradient -->
+  <linearGradient id="collegeFinderGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+    <stop offset="100%" style="stop-color:#FFC107;stop-opacity:1" />
+  </linearGradient>
+  
+  <!-- Main rectangle with gradient fill -->
+  <rect x="10" y="12" width="44" height="40" rx="2" fill="url(#collegeFinderGradient)" />
+  
+  <!-- Magnifying glass -->
+  <circle cx="32" cy="32" r="16" fill="#FFF" />
+  <path d="M45.7 45.7l-9.4-9.4a10.6 10.6 0 1 0-2.8 2.8l9.4 9.4a2 2 0 0 0 2.8 0 2 2 0 0 0 0-2.8zM23 26a11 11 0 1 1 11 11 11 11 0 0 1-11-11z" fill="#FF9800" />
+  
+  <!-- Book -->
+  <path d="M42 26H22a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h20a2 2 0 0 0 2-2V28a2 2 0 0 0-2-2zm-1 14H23V29h18v11zM28 17v-3a2 2 0 0 0-2-2h-8a2 2 0 0 0-2 2v3h2v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3z" fill="#FFF" />
+</svg>

@@ -1,0 +1,87 @@
+[
+    {
+        "name": "IIM Ahmedabad",
+        "event": "https://www.iima.ac.in/the-institute/events",
+        "career": "https://www.iima.ac.in/"
+    },
+    {
+        "name": "IIM Bangalore",
+        "event": "https://www.iimb.ac.in/events",
+        "career": "https://www.iimb.ac.in/"
+    },
+    {
+        "name": "IIM Calcutta",
+        "event": "https://www.iimcal.ac.in/",
+        "career": "https://www.iimcal.ac.in/"
+    },
+    {
+        "name": "IIM Lucknow",
+        "event": "https://www.iiml.ac.in/",
+        "career": "https://www.iiml.ac.in/"
+    },
+    {
+        "name": "IIM Indore",
+        "event": "https://www.iimidr.ac.in/",
+        "career": "https://www.iimidr.ac.in/"
+    },
+    {
+        "name": "IIM Kozhikode",
+        "event": "https://www.iimk.ac.in/",
+        "career": "https://www.iimk.ac.in/"
+    },
+    {
+        "name": "IIM Shillong",
+        "event": "https://www.iimshillong.ac.in/",
+        "career": "https://www.iimshillong.ac.in/"
+    },
+    {
+        "name": "IIM Rohtak",
+        "event": "https://www.iimrohtak.ac.in/",
+        "career": "https://www.iimrohtak.ac.in/"
+    },
+    {
+        "name": "IIM Ranchi",
+        "event": "https://www.iimranchi.ac.in/",
+        "career": "https://www.iimranchi.ac.in/"
+    },
+    {
+        "name": "IIM Raipur",
+        "event": "https://www.iimraipur.ac.in/",
+        "career": "https://www.iimraipur.ac.in/"
+    },
+    {
+        "name": "IIM Trichy",
+        "event": "https://www.iimtrichy.ac.in/",
+        "career": "https://www.iimtrichy.ac.in/"
+    },
+    {
+        "name": "IIM Udaipur",
+        "event": "https://www.iimu.ac.in/",
+        "career": "https://www.iimu.ac.in/"
+    },
+    {
+        "name": "IIM Nagpur",
+        "event": "https://www.iimnagpur.ac.in/",
+        "career": "https://www.iimnagpur.ac.in/"
+    },
+    {
+        "name": "IIM Visakhapatnam",
+        "event": "https://www.iimv.ac.in/",
+        "career": "https://www.iimv.ac.in/"
+    },
+    {
+        "name": "IIM Bodh Gaya",
+        "event": "https://www.iimbg.ac.in/",
+        "career": "https://www.iimbg.ac.in/"
+    },
+    {
+        "name": "IIM Jammu",
+        "event": "https://www.iimj.ac.in/",
+        "career": "https://www.iimj.ac.in/"
+    },
+    {
+        "name": "IIM Sirmaur",
+        "event": "https://www.iimsirmaur.ac.in/",
+        "career": "https://www.iimsirmaur.ac.in/"
+    }
+]

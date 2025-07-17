@@ -1,0 +1,44 @@
+
+
+.swiper-container {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .mySwiper {
+    width: 100%;
+    height: 70vh;
+  
+  }
+  
+  .mySwiper img {
+    padding: 1.5px;
+    width: 100%;
+    height: 100%;
+    object-fit: fit;
+   
+  }
+  
+  
+  .swiper-slide::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Adjust the alpha value (0.3) to control darkness */
+  }
+  @media screen and (max-width: 1450px) {
+    .mySwiper {
+      height: 55vh;
+    }
+    
+  }
+  
+  @media screen and (max-width: 800px) {
+    .mySwiper {
+      height: 40vh;
+    }
+    
+  }

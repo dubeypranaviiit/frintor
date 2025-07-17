@@ -1,0 +1,102 @@
+[
+    {
+        "name": "IIT Bombay",
+        "event": "https://www.iitb.ac.in/events",
+        "career": "https://www.iitb.ac.in/career"
+    },
+    {
+        "name": "IIT Delhi",
+        "event": "https://home.iitd.ac.in/events-all.php",
+        "career": "https://home.iitd.ac.in/jobs-iitd"
+    },
+    {
+        "name": "IIT Kanpur",
+        "event": "https://www.iitk.ac.in/",
+        "career": "https://spo.iitk.ac.in/"
+    },
+    {
+        "name": "IIT Kharagpur",
+        "event": "http://www.iitkgp.ac.in/",
+        "career": "http://www.iitkgp.ac.in/"
+    },
+    {
+        "name": "IIT Madras",
+        "event": "https://www.iitm.ac.in/happenings/events",
+        "career": "https://www.iitm.ac.in/"
+    },
+    {
+        "name": "IIT Roorkee",
+        "event": "https://www.iitr.ac.in/",
+        "career": "https://iitr.ac.in/Careers/index.html"
+    },
+    {
+        "name": "IIT Guwahati",
+        "event": "https://www.iitg.ac.in/rnd/events.html",
+        "career": "https://www.iitg.ac.in/"
+    },
+    {
+        "name": "IIT Hyderabad",
+        "event": "https://www.iith.ac.in/events/",
+        "career": "https://www.iith.ac.in/careers/"
+    },
+    {
+        "name": "IIT Jodhpur",
+        "event": "https://iitj.ac.in/students/event_calendar.php",
+        "career": "https://iitj.ac.in/"
+    },
+    {
+        "name": "IIT Indore",
+        "event": "https://www.iiti.ac.in/event",
+        "career": "https://www.iiti.ac.in/recruitments/faculty-positions"
+    },
+    {
+        "name": "IIT Mandi",
+        "event": "https://www.iitmandi.ac.in/",
+        "career": "https://students.iitmandi.ac.in/cnpcell/"
+    },
+    {
+        "name": "IIT Patna",
+        "event": "https://www.iitp.ac.in/",
+        "career": "https://www.iitp.ac.in/"
+    },
+    {
+        "name": "IIT Ropar",
+        "event": "https://www.iitrpr.ac.in/student-affairs/events.php?q=upcoming",
+        "career": "https://www.iitrpr.ac.in/cdpc/"
+    },
+    {
+        "name": "IIT Bhubaneswar",
+        "event": "https://www.iitbbs.ac.in/",
+        "career": "https://www.iitbbs.ac.in/index.php/home/career-development-cell/"
+    },
+    {
+        "name": "IIT Gandhinagar",
+        "event": "https://events.iitgn.ac.in/",
+        "career": "https://www.iitgn.ac.in/careers"
+    },
+    {
+        "name": "IIT Jammu",
+        "event": "https://www.iitjammu.ac.in/events",
+        "career": "https://www.iitjammu.ac.in/careers"
+    },
+    {
+        "name": "IIT Dharwad",
+        "event": "https://www.iitdh.ac.in/students-life-events",
+        "career": "https://cdc.iitdh.ac.in/"
+    },
+    {
+        "name": "IIT Bhilai",
+        "event": "https://www.iitbhilai.ac.in/index.php?pid=recent_activities",
+        "career": "https://www.iitbhilai.ac.in/index.php?pid=placement"
+    },
+    {
+        "name": "IIT Goa",
+        "event": "https://www.iitgoa.ac.in/",
+        "career": "https://iitgoa.ac.in/~placement/"
+    },
+    {
+        "name": "IIT Palakkad",
+        "event": "https://iitpkd.ac.in/events",
+        "career": "https://iitpkd.ac.in/placement/"
+    }
+]

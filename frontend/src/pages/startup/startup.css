@@ -1,0 +1,4 @@
+.gradient-bg {
+    background: linear-gradient(to bottom right, #fffbf8, white);
+    padding: 1rem; /* Add padding to ensure inner elements have some space */
+  }

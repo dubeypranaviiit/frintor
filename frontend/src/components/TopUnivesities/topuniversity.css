@@ -1,0 +1,10 @@
+.manage{
+    align-items: start;
+}
+
+@media screen and (max-width: 768px) {
+
+  .manage{
+    align-items: center;
+  }
+  }

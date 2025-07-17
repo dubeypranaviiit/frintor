@@ -1,0 +1,26 @@
+.display-handler{
+    display: flex;
+    flex-direction: row;
+}
+
+@media screen and (max-width: 768px){
+    .display-handler{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    
+}
+
+.input_width{
+    width:27vw;
+}
+
+@media screen and (max-width: 768px){
+    .input_width{
+        width: 70vw;
+    }
+    
+}

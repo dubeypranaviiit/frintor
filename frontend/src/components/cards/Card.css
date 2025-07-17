@@ -1,0 +1,207 @@
+.card {
+  width: 100%; /* Ensure card takes full width of its container */
+  padding: 24px;
+
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+
+
+
+  border-radius: 25px;
+background: linear-gradient(45deg, #e6e6e6, #ffffff);
+box-shadow:  15px -15px 30px #e6e6e6,
+             -15px 15px 30px #ffffff;
+}
+
+.card-image {
+  width: 64px;
+  height: 64px;
+  object-fit: contain;
+  border-radius: 50%;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+.rounded-lg {
+  border-radius: 8px;
+}
+
+.shadow-md {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.text-lg {
+  font-size: 1.125rem;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.text-sm {
+  font-size: 0.875rem;
+}
+
+.text-gray-600 {
+  color: #4a5568;
+}
+
+.mt-4 {
+  margin-top: 1rem;
+}
+
+.ml-4 {
+  margin-left: 1rem;
+}
+
+.p-2 {
+  padding: 0.5rem;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
+.my-4 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.description-container {
+  height: 2.5rem; /* Adjust as needed */
+  overflow: hidden;
+  margin-top: 0.5rem; /* Adjust as needed */
+}
+
+
+
+.card {
+  display: flex;
+}
+
+.card-image {
+  width: 100%;
+  max-width: 150px; /* Adjust as needed */
+  height: auto;
+  border-radius: 8px;
+}
+
+.flex-shrink-0 {
+  flex-shrink: 0;
+}
+
+.w-35 {
+  width: 28%;
+}
+
+.flex-grow {
+  flex-grow: 1;
+}
+
+.points-container {
+  display: grid;
+  grid-template-rows: repeat(2, auto); /* Set to two rows */
+  gap: 8px;
+
+}
+.overflow-handle{
+  overflow: hidden;
+ 
+}
+.points-container-wrapper {
+  overflow: hidden;
+  max-height: 6.5rem; /* Adjust as needed */
+}
+
+.points-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.point {
+  background-color: #e2e8f0;
+  color: #4a5568;
+  border-radius: 9999px;
+  padding: 8px 16px;
+  text-align: center;
+  white-space: nowrap; /* Prevents wrapping */
+  overflow: hidden; /* Hides overflow */
+  text-overflow: ellipsis; /* Displays an ellipsis (...) if the content overflows */
+}
+
+.point.hidden {
+  display: none; /* Hide the entire point element if its content overflows */
+}
+
+
+.transform_custom {
+  transition: transform 1s ease-in-out; /* Add a transition effect for smooth sliding */
+}
+
+
+.max-width{
+  max-width: 95%;
+}
+
+.title-container{
+  display: flex;
+  justify-content: space-between;
+  height: 3rem;
+}
+
+.width{
+width: 32vw;
+ min-width: 280px;
+}
+
+
+
+
+
+.slider-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.scroll-button {
+  background: rgba(255, 255, 255, 0.7);
+  border: none;
+  padding: 10px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.scroll-button:hover {
+  background: rgba(255, 255, 255, 1);
+}
+
+.slider-wrapper {
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  width: 100%;
+  max-width: 1500px; /* Adjust according to your layout */
+}
+
+.cards-container {
+  display: flex;
+  gap: 20px; /* Adjust gap between cards */
+  padding: 10px;
+}
+
+.cards-container > div {
+  flex-shrink: 0;
+  width: 300px; /* Adjust this width to match your card's width */
+}

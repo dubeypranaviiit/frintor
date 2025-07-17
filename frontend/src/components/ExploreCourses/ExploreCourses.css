@@ -1,0 +1,95 @@
+.custom_height{
+    height:3.5rem;
+    overflow: hidden;
+    /* justify-content: center;
+    align-items: center;
+    text-align: center; */
+    display: flex;
+}
+
+.type{
+justify-content: center;
+    align-items: center;
+    text-align: center;    
+}
+
+.text-custom{
+    text-align: start;
+}
+
+@media screen and (max-width: 768px){
+    .text-custom{
+        text-align: center;
+    }
+}
+
+.explore-courses-container {
+    padding: 20px;
+  }
+  
+  .course-types {
+    display: flex;
+    align-items: center;
+    overflow-x: auto;
+    scrollbar-width: none; /* Hide scrollbar for Firefox */
+  }
+  
+  .course-types::-webkit-scrollbar {
+    display: none; /* Hide scrollbar for Chrome, Safari, and Opera */
+  }
+  
+  .course-type-button {
+    flex-shrink: 0;
+  }
+  
+  .scroll-arrow {
+    cursor: pointer;
+    user-select: none;
+    font-size: 24px;
+    padding: 10px;
+  }
+  
+
+  .explore-courses-container {
+    padding: 20px;
+  }
+  
+  .course-cards-wrapper {
+    position: relative;
+  }
+  
+  .course-cards-container {
+    display: flex;
+    overflow-x: auto;
+    scrollbar-width: none; /* Hide scrollbar for Firefox */
+    scroll-behavior: smooth;
+  }
+  
+  .course-cards-container::-webkit-scrollbar {
+    display: none; /* Hide scrollbar for Chrome, Safari, and Opera */
+  }
+  
+  .scroll-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    user-select: none;
+    font-size: 24px;
+    padding: 10px;
+    z-index: 10;
+  }
+  
+  .left-arrow {
+    left: 0;
+  }
+  
+  .right-arrow {
+    right: 0;
+  }
+  
+  .course-type-button {
+    flex-shrink: 0;
+    margin-right: 10px;
+  }
+  

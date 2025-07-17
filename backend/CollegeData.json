@@ -1,0 +1,3672 @@
+[
+  {
+    "collegename": "ABC Institute of Technology",
+    "address": "123 Tech Park",
+    "image": "http://example.com/abc.jpg",
+    "city": "Techville",
+    "state": "Techstate",
+    "country": "Techland",
+    "contact": 1234567890,
+    "email": "info@abctech.edu",
+    "website": "http://abctech.edu",
+    "approvedaurthority": "AICTE",
+    "userrating": 4.5,
+    "totalrating": 1500,
+    "hostel": true,
+    "startupincubation": true,
+    "sports": true,
+    "courses": [
+      {
+        "coursename": "MTech",
+        "branches": [
+          {
+            "branchname": "Information Technology",
+            "duration": 2,
+            "eligibility": "BTech",
+            "fee": 200000,
+            "ranking": 10,
+            "rankingframework": "NIRF",
+            "totalseats": 50,
+            "highestsalary": 1000000,
+            "averagesalary": 600000,
+            "cutoff": [
+              {
+                "year": 2022,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 500,
+                      "female": 520
+                    },
+                    "sc": {
+                      "male": 1000,
+                      "female": 1020
+                    },
+                    "st": {
+                      "male": 1500,
+                      "female": 1520
+                    },
+                    "ews": {
+                      "male": 700,
+                      "female": 720
+                    },
+                    "obcncl": {
+                      "male": 600,
+                      "female": 620
+                    },
+                    "ewspwd": {
+                      "male": 2000,
+                      "female": 2020
+                    },
+                    "generalpwd": {
+                      "male": 2500,
+                      "female": 2520
+                    },
+                    "obcnclpwd": {
+                      "male": 3000,
+                      "female": 3020
+                    },
+                    "scpwd": {
+                      "male": 3500,
+                      "female": 3520
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 550,
+                      "female": 570
+                    },
+                    "sc": {
+                      "male": 1050,
+                      "female": 1070
+                    },
+                    "st": {
+                      "male": 1550,
+                      "female": 1570
+                    },
+                    "ews": {
+                      "male": 750,
+                      "female": 770
+                    },
+                    "obcncl": {
+                      "male": 650,
+                      "female": 670
+                    },
+                    "ewspwd": {
+                      "male": 2050,
+                      "female": 2070
+                    },
+                    "generalpwd": {
+                      "male": 2550,
+                      "female": 2570
+                    },
+                    "obcnclpwd": {
+                      "male": 3050,
+                      "female": 3070
+                    },
+                    "scpwd": {
+                      "male": 3550,
+                      "female": 3570
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 600,
+                      "female": 620
+                    },
+                    "sc": {
+                      "male": 1100,
+                      "female": 1120
+                    },
+                    "st": {
+                      "male": 1600,
+                      "female": 1620
+                    },
+                    "ews": {
+                      "male": 800,
+                      "female": 820
+                    },
+                    "obcncl": {
+                      "male": 700,
+                      "female": 720
+                    },
+                    "ewspwd": {
+                      "male": 2100,
+                      "female": 2120
+                    },
+                    "generalpwd": {
+                      "male": 2600,
+                      "female": 2620
+                    },
+                    "obcnclpwd": {
+                      "male": 3100,
+                      "female": 3120
+                    },
+                    "scpwd": {
+                      "male": 3600,
+                      "female": 3620
+                    }
+                  }
+                ]
+              },
+              {
+                "year": 2023,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 480,
+                      "female": 500
+                    },
+                    "sc": {
+                      "male": 980,
+                      "female": 1000
+                    },
+                    "st": {
+                      "male": 1480,
+                      "female": 1500
+                    },
+                    "ews": {
+                      "male": 680,
+                      "female": 700
+                    },
+                    "obcncl": {
+                      "male": 580,
+                      "female": 600
+                    },
+                    "ewspwd": {
+                      "male": 1980,
+                      "female": 2000
+                    },
+                    "generalpwd": {
+                      "male": 2480,
+                      "female": 2500
+                    },
+                    "obcnclpwd": {
+                      "male": 2980,
+                      "female": 3000
+                    },
+                    "scpwd": {
+                      "male": 3480,
+                      "female": 3500
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 530,
+                      "female": 550
+                    },
+                    "sc": {
+                      "male": 1030,
+                      "female": 1050
+                    },
+                    "st": {
+                      "male": 1530,
+                      "female": 1550
+                    },
+                    "ews": {
+                      "male": 730,
+                      "female": 750
+                    },
+                    "obcncl": {
+                      "male": 630,
+                      "female": 650
+                    },
+                    "ewspwd": {
+                      "male": 2030,
+                      "female": 2050
+                    },
+                    "generalpwd": {
+                      "male": 2530,
+                      "female": 2550
+                    },
+                    "obcnclpwd": {
+                      "male": 3030,
+                      "female": 3050
+                    },
+                    "scpwd": {
+                      "male": 3530,
+                      "female": 3550
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 580,
+                      "female": 600
+                    },
+                    "sc": {
+                      "male": 1080,
+                      "female": 1100
+                    },
+                    "st": {
+                      "male": 1580,
+                      "female": 1600
+                    },
+                    "ews": {
+                      "male": 780,
+                      "female": 800
+                    },
+                    "obcncl": {
+                      "male": 680,
+                      "female": 700
+                    },
+                    "ewspwd": {
+                      "male": 2080,
+                      "female": 2100
+                    },
+                    "generalpwd": {
+                      "male": 2580,
+                      "female": 2600
+                    },
+                    "obcnclpwd": {
+                      "male": 3080,
+                      "female": 3100
+                    },
+                    "scpwd": {
+                      "male": 3580,
+                      "female": 3600
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "branchname": "Computer Engineering",
+            "duration": 2,
+            "eligibility": "BTech",
+            "fee": 210000,
+            "ranking": 8,
+            "rankingframework": "NIRF",
+            "totalseats": 60,
+            "highestsalary": 1200000,
+            "averagesalary": 650000,
+            "cutoff": [
+              {
+                "year": 2022,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 400,
+                      "female": 420
+                    },
+                    "sc": {
+                      "male": 900,
+                      "female": 920
+                    },
+                    "st": {
+                      "male": 1400,
+                      "female": 1420
+                    },
+                    "ews": {
+                      "male": 600,
+                      "female": 620
+                    },
+                    "obcncl": {
+                      "male": 500,
+                      "female": 520
+                    },
+                    "ewspwd": {
+                      "male": 1900,
+                      "female": 1920
+                    },
+                    "generalpwd": {
+                      "male": 2400,
+                      "female": 2420
+                    },
+                    "obcnclpwd": {
+                      "male": 2900,
+                      "female": 2920
+                    },
+                    "scpwd": {
+                      "male": 3400,
+                      "female": 3420
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 450,
+                      "female": 470
+                    },
+                    "sc": {
+                      "male": 950,
+                      "female": 970
+                    },
+                    "st": {
+                      "male": 1450,
+                      "female": 1470
+                    },
+                    "ews": {
+                      "male": 650,
+                      "female": 670
+                    },
+                    "obcncl": {
+                      "male": 550,
+                      "female": 570
+                    },
+                    "ewspwd": {
+                      "male": 1950,
+                      "female": 1970
+                    },
+                    "generalpwd": {
+                      "male": 2450,
+                      "female": 2470
+                    },
+                    "obcnclpwd": {
+                      "male": 2950,
+                      "female": 2970
+                    },
+                    "scpwd": {
+                      "male": 3450,
+                      "female": 3470
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 500,
+                      "female": 520
+                    },
+                    "sc": {
+                      "male": 1000,
+                      "female": 1020
+                    },
+                    "st": {
+                      "male": 1500,
+                      "female": 1520
+                    },
+                    "ews": {
+                      "male": 700,
+                      "female": 720
+                    },
+                    "obcncl": {
+                      "male": 600,
+                      "female": 620
+                    },
+                    "ewspwd": {
+                      "male": 2000,
+                      "female": 2020
+                    },
+                    "generalpwd": {
+                      "male": 2500,
+                      "female": 2520
+                    },
+                    "obcnclpwd": {
+                      "male": 3000,
+                      "female": 3020
+                    },
+                    "scpwd": {
+                      "male": 3500,
+                      "female": 3520
+                    }
+                  }
+                ]
+              },
+              {
+                "year": 2023,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 380,
+                      "female": 400
+                    },
+                    "sc": {
+                      "male": 880,
+                      "female": 900
+                    },
+                    "st": {
+                      "male": 1380,
+                      "female": 1400
+                    },
+                    "ews": {
+                      "male": 580,
+                      "female": 600
+                    },
+                    "obcncl": {
+                      "male": 480,
+                      "female": 500
+                    },
+                    "ewspwd": {
+                      "male": 1880,
+                      "female": 1900
+                    },
+                    "generalpwd": {
+                      "male": 2380,
+                      "female": 2400
+                    },
+                    "obcnclpwd": {
+                      "male": 2880,
+                      "female": 2900
+                    },
+                    "scpwd": {
+                      "male": 3380,
+                      "female": 3400
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 430,
+                      "female": 450
+                    },
+                    "sc": {
+                      "male": 930,
+                      "female": 950
+                    },
+                    "st": {
+                      "male": 1430,
+                      "female": 1450
+                    },
+                    "ews": {
+                      "male": 630,
+                      "female": 650
+                    },
+                    "obcncl": {
+                      "male": 530,
+                      "female": 550
+                    },
+                    "ewspwd": {
+                      "male": 1930,
+                      "female": 1950
+                    },
+                    "generalpwd": {
+                      "male": 2430,
+                      "female": 2450
+                    },
+                    "obcnclpwd": {
+                      "male": 2930,
+                      "female": 2950
+                    },
+                    "scpwd": {
+                      "male": 3430,
+                      "female": 3450
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 480,
+                      "female": 500
+                    },
+                    "sc": {
+                      "male": 980,
+                      "female": 1000
+                    },
+                    "st": {
+                      "male": 1480,
+                      "female": 1500
+                    },
+                    "ews": {
+                      "male": 680,
+                      "female": 700
+                    },
+                    "obcncl": {
+                      "male": 580,
+                      "female": 600
+                    },
+                    "ewspwd": {
+                      "male": 1980,
+                      "female": 2000
+                    },
+                    "generalpwd": {
+                      "male": 2480,
+                      "female": 2500
+                    },
+                    "obcnclpwd": {
+                      "male": 2980,
+                      "female": 3000
+                    },
+                    "scpwd": {
+                      "male": 3480,
+                      "female": 3500
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "coursename": "BTech",
+        "branches": [
+          {
+            "branchname": "Information Technology",
+            "duration": 4,
+            "eligibility": "10+2",
+            "fee": 400000,
+            "ranking": 15,
+            "rankingframework": "NIRF",
+            "totalseats": 100,
+            "highestsalary": 1200000,
+            "averagesalary": 700000,
+            "cutoff": [
+              {
+                "year": 2022,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 600,
+                      "female": 620
+                    },
+                    "sc": {
+                      "male": 1100,
+                      "female": 1120
+                    },
+                    "st": {
+                      "male": 1600,
+                      "female": 1620
+                    },
+                    "ews": {
+                      "male": 800,
+                      "female": 820
+                    },
+                    "obcncl": {
+                      "male": 700,
+                      "female": 720
+                    },
+                    "ewspwd": {
+                      "male": 2100,
+                      "female": 2120
+                    },
+                    "generalpwd": {
+                      "male": 2600,
+                      "female": 2620
+                    },
+                    "obcnclpwd": {
+                      "male": 3100,
+                      "female": 3120
+                    },
+                    "scpwd": {
+                      "male": 3600,
+                      "female": 3620
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 650,
+                      "female": 670
+                    },
+                    "sc": {
+                      "male": 1150,
+                      "female": 1170
+                    },
+                    "st": {
+                      "male": 1650,
+                      "female": 1670
+                    },
+                    "ews": {
+                      "male": 850,
+                      "female": 870
+                    },
+                    "obcncl": {
+                      "male": 750,
+                      "female": 770
+                    },
+                    "ewspwd": {
+                      "male": 2150,
+                      "female": 2170
+                    },
+                    "generalpwd": {
+                      "male": 2650,
+                      "female": 2670
+                    },
+                    "obcnclpwd": {
+                      "male": 3150,
+                      "female": 3170
+                    },
+                    "scpwd": {
+                      "male": 3650,
+                      "female": 3670
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 700,
+                      "female": 720
+                    },
+                    "sc": {
+                      "male": 1200,
+                      "female": 1220
+                    },
+                    "st": {
+                      "male": 1700,
+                      "female": 1720
+                    },
+                    "ews": {
+                      "male": 900,
+                      "female": 920
+                    },
+                    "obcncl": {
+                      "male": 800,
+                      "female": 820
+                    },
+                    "ewspwd": {
+                      "male": 2200,
+                      "female": 2220
+                    },
+                    "generalpwd": {
+                      "male": 2700,
+                      "female": 2720
+                    },
+                    "obcnclpwd": {
+                      "male": 3200,
+                      "female": 3220
+                    },
+                    "scpwd": {
+                      "male": 3700,
+                      "female": 3720
+                    }
+                  }
+                ]
+              },
+              {
+                "year": 2023,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 580,
+                      "female": 600
+                    },
+                    "sc": {
+                      "male": 1080,
+                      "female": 1100
+                    },
+                    "st": {
+                      "male": 1580,
+                      "female": 1600
+                    },
+                    "ews": {
+                      "male": 780,
+                      "female": 800
+                    },
+                    "obcncl": {
+                      "male": 680,
+                      "female": 700
+                    },
+                    "ewspwd": {
+                      "male": 2080,
+                      "female": 2100
+                    },
+                    "generalpwd": {
+                      "male": 2580,
+                      "female": 2600
+                    },
+                    "obcnclpwd": {
+                      "male": 3080,
+                      "female": 3100
+                    },
+                    "scpwd": {
+                      "male": 3580,
+                      "female": 3600
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 630,
+                      "female": 650
+                    },
+                    "sc": {
+                      "male": 1130,
+                      "female": 1150
+                    },
+                    "st": {
+                      "male": 1630,
+                      "female": 1650
+                    },
+                    "ews": {
+                      "male": 830,
+                      "female": 850
+                    },
+                    "obcncl": {
+                      "male": 730,
+                      "female": 750
+                    },
+                    "ewspwd": {
+                      "male": 2130,
+                      "female": 2150
+                    },
+                    "generalpwd": {
+                      "male": 2630,
+                      "female": 2650
+                    },
+                    "obcnclpwd": {
+                      "male": 3130,
+                      "female": 3150
+                    },
+                    "scpwd": {
+                      "male": 3630,
+                      "female": 3650
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 680,
+                      "female": 700
+                    },
+                    "sc": {
+                      "male": 1180,
+                      "female": 1200
+                    },
+                    "st": {
+                      "male": 1680,
+                      "female": 1700
+                    },
+                    "ews": {
+                      "male": 880,
+                      "female": 900
+                    },
+                    "obcncl": {
+                      "male": 780,
+                      "female": 800
+                    },
+                    "ewspwd": {
+                      "male": 2180,
+                      "female": 2200
+                    },
+                    "generalpwd": {
+                      "male": 2680,
+                      "female": 2700
+                    },
+                    "obcnclpwd": {
+                      "male": 3180,
+                      "female": 3200
+                    },
+                    "scpwd": {
+                      "male": 3680,
+                      "female": 3700
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "branchname": "Computer Engineering",
+            "duration": 4,
+            "eligibility": "10+2",
+            "fee": 410000,
+            "ranking": 12,
+            "rankingframework": "NIRF",
+            "totalseats": 110,
+            "highestsalary": 1300000,
+            "averagesalary": 750000,
+            "cutoff": [
+              {
+                "year": 2022,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 500,
+                      "female": 520
+                    },
+                    "sc": {
+                      "male": 1000,
+                      "female": 1020
+                    },
+                    "st": {
+                      "male": 1500,
+                      "female": 1520
+                    },
+                    "ews": {
+                      "male": 700,
+                      "female": 720
+                    },
+                    "obcncl": {
+                      "male": 600,
+                      "female": 620
+                    },
+                    "ewspwd": {
+                      "male": 2000,
+                      "female": 2020
+                    },
+                    "generalpwd": {
+                      "male": 2500,
+                      "female": 2520
+                    },
+                    "obcnclpwd": {
+                      "male": 3000,
+                      "female": 3020
+                    },
+                    "scpwd": {
+                      "male": 3500,
+                      "female": 3520
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 550,
+                      "female": 570
+                    },
+                    "sc": {
+                      "male": 1050,
+                      "female": 1070
+                    },
+                    "st": {
+                      "male": 1550,
+                      "female": 1570
+                    },
+                    "ews": {
+                      "male": 750,
+                      "female": 770
+                    },
+                    "obcncl": {
+                      "male": 650,
+                      "female": 670
+                    },
+                    "ewspwd": {
+                      "male": 2050,
+                      "female": 2070
+                    },
+                    "generalpwd": {
+                      "male": 2550,
+                      "female": 2570
+                    },
+                    "obcnclpwd": {
+                      "male": 3050,
+                      "female": 3070
+                    },
+                    "scpwd": {
+                      "male": 3550,
+                      "female": 3570
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 600,
+                      "female": 620
+                    },
+                    "sc": {
+                      "male": 1100,
+                      "female": 1120
+                    },
+                    "st": {
+                      "male": 1600,
+                      "female": 1620
+                    },
+                    "ews": {
+                      "male": 800,
+                      "female": 820
+                    },
+                    "obcncl": {
+                      "male": 700,
+                      "female": 720
+                    },
+                    "ewspwd": {
+                      "male": 2100,
+                      "female": 2120
+                    },
+                    "generalpwd": {
+                      "male": 2600,
+                      "female": 2620
+                    },
+                    "obcnclpwd": {
+                      "male": 3100,
+                      "female": 3120
+                    },
+                    "scpwd": {
+                      "male": 3600,
+                      "female": 3620
+                    }
+                  }
+                ]
+              },
+              {
+                "year": 2023,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 480,
+                      "female": 500
+                    },
+                    "sc": {
+                      "male": 980,
+                      "female": 1000
+                    },
+                    "st": {
+                      "male": 1480,
+                      "female": 1500
+                    },
+                    "ews": {
+                      "male": 680,
+                      "female": 700
+                    },
+                    "obcncl": {
+                      "male": 580,
+                      "female": 600
+                    },
+                    "ewspwd": {
+                      "male": 1980,
+                      "female": 2000
+                    },
+                    "generalpwd": {
+                      "male": 2480,
+                      "female": 2500
+                    },
+                    "obcnclpwd": {
+                      "male": 2980,
+                      "female": 3000
+                    },
+                    "scpwd": {
+                      "male": 3480,
+                      "female": 3500
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 530,
+                      "female": 550
+                    },
+                    "sc": {
+                      "male": 1030,
+                      "female": 1050
+                    },
+                    "st": {
+                      "male": 1530,
+                      "female": 1550
+                    },
+                    "ews": {
+                      "male": 730,
+                      "female": 750
+                    },
+                    "obcncl": {
+                      "male": 630,
+                      "female": 650
+                    },
+                    "ewspwd": {
+                      "male": 2030,
+                      "female": 2050
+                    },
+                    "generalpwd": {
+                      "male": 2530,
+                      "female": 2550
+                    },
+                    "obcnclpwd": {
+                      "male": 3030,
+                      "female": 3050
+                    },
+                    "scpwd": {
+                      "male": 3530,
+                      "female": 3550
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 580,
+                      "female": 600
+                    },
+                    "sc": {
+                      "male": 1080,
+                      "female": 1100
+                    },
+                    "st": {
+                      "male": 1580,
+                      "female": 1600
+                    },
+                    "ews": {
+                      "male": 780,
+                      "female": 800
+                    },
+                    "obcncl": {
+                      "male": 680,
+                      "female": 700
+                    },
+                    "ewspwd": {
+                      "male": 2080,
+                      "female": 2100
+                    },
+                    "generalpwd": {
+                      "male": 2580,
+                      "female": 2600
+                    },
+                    "obcnclpwd": {
+                      "male": 3080,
+                      "female": 3100
+                    },
+                    "scpwd": {
+                      "male": 3580,
+                      "female": 3600
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "collegename": "DEF College of Engineering",
+    "address": "456 Engineer Lane",
+    "image": "http://example.com/def.jpg",
+    "city": "EngiCity",
+    "state": "EngiState",
+    "country": "EngiLand",
+    "contact": 9876543210,
+    "email": "contact@defeng.edu",
+    "website": "http://defeng.edu",
+    "approvedaurthority": "AICTE",
+    "userrating": 4.3,
+    "totalrating": 1300,
+    "hostel": true,
+    "startupincubation": false,
+    "sports": true,
+    "courses": [
+      {
+        "coursename": "MTech",
+        "branches": [
+          {
+            "branchname": "Information Technology",
+            "duration": 2,
+            "eligibility": "BTech",
+            "fee": 210000,
+            "ranking": 12,
+            "rankingframework": "NIRF",
+            "totalseats": 55,
+            "highestsalary": 1100000,
+            "averagesalary": 620000,
+            "cutoff": [
+              {
+                "year": 2022,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 510,
+                      "female": 530
+                    },
+                    "sc": {
+                      "male": 1010,
+                      "female": 1030
+                    },
+                    "st": {
+                      "male": 1510,
+                      "female": 1530
+                    },
+                    "ews": {
+                      "male": 710,
+                      "female": 730
+                    },
+                    "obcncl": {
+                      "male": 610,
+                      "female": 630
+                    },
+                    "ewspwd": {
+                      "male": 2010,
+                      "female": 2030
+                    },
+                    "generalpwd": {
+                      "male": 2510,
+                      "female": 2530
+                    },
+                    "obcnclpwd": {
+                      "male": 3010,
+                      "female": 3030
+                    },
+                    "scpwd": {
+                      "male": 3510,
+                      "female": 3530
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 560,
+                      "female": 580
+                    },
+                    "sc": {
+                      "male": 1060,
+                      "female": 1080
+                    },
+                    "st": {
+                      "male": 1560,
+                      "female": 1580
+                    },
+                    "ews": {
+                      "male": 760,
+                      "female": 780
+                    },
+                    "obcncl": {
+                      "male": 660,
+                      "female": 680
+                    },
+                    "ewspwd": {
+                      "male": 2060,
+                      "female": 2080
+                    },
+                    "generalpwd": {
+                      "male": 2560,
+                      "female": 2580
+                    },
+                    "obcnclpwd": {
+                      "male": 3060,
+                      "female": 3080
+                    },
+                    "scpwd": {
+                      "male": 3560,
+                      "female": 3580
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 610,
+                      "female": 630
+                    },
+                    "sc": {
+                      "male": 1110,
+                      "female": 1130
+                    },
+                    "st": {
+                      "male": 1610,
+                      "female": 1630
+                    },
+                    "ews": {
+                      "male": 810,
+                      "female": 830
+                    },
+                    "obcncl": {
+                      "male": 710,
+                      "female": 730
+                    },
+                    "ewspwd": {
+                      "male": 2110,
+                      "female": 2130
+                    },
+                    "generalpwd": {
+                      "male": 2610,
+                      "female": 2630
+                    },
+                    "obcnclpwd": {
+                      "male": 3110,
+                      "female": 3130
+                    },
+                    "scpwd": {
+                      "male": 3610,
+                      "female": 3630
+                    }
+                  }
+                ]
+              },
+              {
+                "year": 2023,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 490,
+                      "female": 510
+                    },
+                    "sc": {
+                      "male": 990,
+                      "female": 1010
+                    },
+                    "st": {
+                      "male": 1490,
+                      "female": 1510
+                    },
+                    "ews": {
+                      "male": 690,
+                      "female": 710
+                    },
+                    "obcncl": {
+                      "male": 590,
+                      "female": 610
+                    },
+                    "ewspwd": {
+                      "male": 1990,
+                      "female": 2010
+                    },
+                    "generalpwd": {
+                      "male": 2490,
+                      "female": 2510
+                    },
+                    "obcnclpwd": {
+                      "male": 2990,
+                      "female": 3010
+                    },
+                    "scpwd": {
+                      "male": 3490,
+                      "female": 3510
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 540,
+                      "female": 560
+                    },
+                    "sc": {
+                      "male": 1040,
+                      "female": 1060
+                    },
+                    "st": {
+                      "male": 1540,
+                      "female": 1560
+                    },
+                    "ews": {
+                      "male": 740,
+                      "female": 760
+                    },
+                    "obcncl": {
+                      "male": 640,
+                      "female": 660
+                    },
+                    "ewspwd": {
+                      "male": 2040,
+                      "female": 2060
+                    },
+                    "generalpwd": {
+                      "male": 2540,
+                      "female": 2560
+                    },
+                    "obcnclpwd": {
+                      "male": 3040,
+                      "female": 3060
+                    },
+                    "scpwd": {
+                      "male": 3540,
+                      "female": 3560
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 590,
+                      "female": 610
+                    },
+                    "sc": {
+                      "male": 1090,
+                      "female": 1110
+                    },
+                    "st": {
+                      "male": 1590,
+                      "female": 1610
+                    },
+                    "ews": {
+                      "male": 790,
+                      "female": 810
+                    },
+                    "obcncl": {
+                      "male": 690,
+                      "female": 710
+                    },
+                    "ewspwd": {
+                      "male": 2090,
+                      "female": 2110
+                    },
+                    "generalpwd": {
+                      "male": 2590,
+                      "female": 2610
+                    },
+                    "obcnclpwd": {
+                      "male": 3090,
+                      "female": 3110
+                    },
+                    "scpwd": {
+                      "male": 3590,
+                      "female": 3610
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "branchname": "Computer Engineering",
+            "duration": 2,
+            "eligibility": "BTech",
+            "fee": 220000,
+            "ranking": 10,
+            "rankingframework": "NIRF",
+            "totalseats": 60,
+            "highestsalary": 1300000,
+            "averagesalary": 700000,
+            "cutoff": [
+              {
+                "year": 2022,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 410,
+                      "female": 430
+                    },
+                    "sc": {
+                      "male": 910,
+                      "female": 930
+                    },
+                    "st": {
+                      "male": 1410,
+                      "female": 1430
+                    },
+                    "ews": {
+                      "male": 610,
+                      "female": 630
+                    },
+                    "obcncl": {
+                      "male": 510,
+                      "female": 530
+                    },
+                    "ewspwd": {
+                      "male": 1910,
+                      "female": 1930
+                    },
+                    "generalpwd": {
+                      "male": 2410,
+                      "female": 2430
+                    },
+                    "obcnclpwd": {
+                      "male": 2910,
+                      "female": 2930
+                    },
+                    "scpwd": {
+                      "male": 3410,
+                      "female": 3430
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 460,
+                      "female": 480
+                    },
+                    "sc": {
+                      "male": 960,
+                      "female": 980
+                    },
+                    "st": {
+                      "male": 1460,
+                      "female": 1480
+                    },
+                    "ews": {
+                      "male": 660,
+                      "female": 680
+                    },
+                    "obcncl": {
+                      "male": 560,
+                      "female": 580
+                    },
+                    "ewspwd": {
+                      "male": 1960,
+                      "female": 1980
+                    },
+                    "generalpwd": {
+                      "male": 2460,
+                      "female": 2480
+                    },
+                    "obcnclpwd": {
+                      "male": 2960,
+                      "female": 2980
+                    },
+                    "scpwd": {
+                      "male": 3460,
+                      "female": 3480
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 510,
+                      "female": 530
+                    },
+                    "sc": {
+                      "male": 1010,
+                      "female": 1030
+                    },
+                    "st": {
+                      "male": 1510,
+                      "female": 1530
+                    },
+                    "ews": {
+                      "male": 710,
+                      "female": 730
+                    },
+                    "obcncl": {
+                      "male": 610,
+                      "female": 630
+                    },
+                    "ewspwd": {
+                      "male": 2010,
+                      "female": 2030
+                    },
+                    "generalpwd": {
+                      "male": 2510,
+                      "female": 2530
+                    },
+                    "obcnclpwd": {
+                      "male": 3010,
+                      "female": 3030
+                    },
+                    "scpwd": {
+                      "male": 3510,
+                      "female": 3530
+                    }
+                  }
+                ]
+              },
+              {
+                "year": 2023,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 390,
+                      "female": 410
+                    },
+                    "sc": {
+                      "male": 890,
+                      "female": 910
+                    },
+                    "st": {
+                      "male": 1390,
+                      "female": 1410
+                    },
+                    "ews": {
+                      "male": 590,
+                      "female": 610
+                    },
+                    "obcncl": {
+                      "male": 490,
+                      "female": 510
+                    },
+                    "ewspwd": {
+                      "male": 1890,
+                      "female": 1910
+                    },
+                    "generalpwd": {
+                      "male": 2390,
+                      "female": 2410
+                    },
+                    "obcnclpwd": {
+                      "male": 2890,
+                      "female": 2910
+                    },
+                    "scpwd": {
+                      "male": 3390,
+                      "female": 3410
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 440,
+                      "female": 460
+                    },
+                    "sc": {
+                      "male": 940,
+                      "female": 960
+                    },
+                    "st": {
+                      "male": 1440,
+                      "female": 1460
+                    },
+                    "ews": {
+                      "male": 640,
+                      "female": 660
+                    },
+                    "obcncl": {
+                      "male": 540,
+                      "female": 560
+                    },
+                    "ewspwd": {
+                      "male": 1940,
+                      "female": 1960
+                    },
+                    "generalpwd": {
+                      "male": 2440,
+                      "female": 2460
+                    },
+                    "obcnclpwd": {
+                      "male": 2940,
+                      "female": 2960
+                    },
+                    "scpwd": {
+                      "male": 3440,
+                      "female": 3460
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 490,
+                      "female": 510
+                    },
+                    "sc": {
+                      "male": 990,
+                      "female": 1010
+                    },
+                    "st": {
+                      "male": 1490,
+                      "female": 1510
+                    },
+                    "ews": {
+                      "male": 690,
+                      "female": 710
+                    },
+                    "obcncl": {
+                      "male": 590,
+                      "female": 610
+                    },
+                    "ewspwd": {
+                      "male": 1990,
+                      "female": 2010
+                    },
+                    "generalpwd": {
+                      "male": 2490,
+                      "female": 2510
+                    },
+                    "obcnclpwd": {
+                      "male": 2990,
+                      "female": 3010
+                    },
+                    "scpwd": {
+                      "male": 3490,
+                      "female": 3510
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "coursename": "BTech",
+        "branches": [
+          {
+            "branchname": "Information Technology",
+            "duration": 4,
+            "eligibility": "10+2",
+            "fee": 420000,
+            "ranking": 14,
+            "rankingframework": "NIRF",
+            "totalseats": 105,
+            "highestsalary": 1400000,
+            "averagesalary": 720000,
+            "cutoff": [
+              {
+                "year": 2022,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 620,
+                      "female": 640
+                    },
+                    "sc": {
+                      "male": 1120,
+                      "female": 1140
+                    },
+                    "st": {
+                      "male": 1620,
+                      "female": 1640
+                    },
+                    "ews": {
+                      "male": 820,
+                      "female": 840
+                    },
+                    "obcncl": {
+                      "male": 720,
+                      "female": 740
+                    },
+                    "ewspwd": {
+                      "male": 2120,
+                      "female": 2140
+                    },
+                    "generalpwd": {
+                      "male": 2620,
+                      "female": 2640
+                    },
+                    "obcnclpwd": {
+                      "male": 3120,
+                      "female": 3140
+                    },
+                    "scpwd": {
+                      "male": 3620,
+                      "female": 3640
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 670,
+                      "female": 690
+                    },
+                    "sc": {
+                      "male": 1170,
+                      "female": 1190
+                    },
+                    "st": {
+                      "male": 1670,
+                      "female": 1690
+                    },
+                    "ews": {
+                      "male": 870,
+                      "female": 890
+                    },
+                    "obcncl": {
+                      "male": 770,
+                      "female": 790
+                    },
+                    "ewspwd": {
+                      "male": 2170,
+                      "female": 2190
+                    },
+                    "generalpwd": {
+                      "male": 2670,
+                      "female": 2690
+                    },
+                    "obcnclpwd": {
+                      "male": 3170,
+                      "female": 3190
+                    },
+                    "scpwd": {
+                      "male": 3670,
+                      "female": 3690
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 720,
+                      "female": 740
+                    },
+                    "sc": {
+                      "male": 1220,
+                      "female": 1240
+                    },
+                    "st": {
+                      "male": 1720,
+                      "female": 1740
+                    },
+                    "ews": {
+                      "male": 920,
+                      "female": 940
+                    },
+                    "obcncl": {
+                      "male": 820,
+                      "female": 840
+                    },
+                    "ewspwd": {
+                      "male": 2220,
+                      "female": 2240
+                    },
+                    "generalpwd": {
+                      "male": 2720,
+                      "female": 2740
+                    },
+                    "obcnclpwd": {
+                      "male": 3220,
+                      "female": 3240
+                    },
+                    "scpwd": {
+                      "male": 3720,
+                      "female": 3740
+                    }
+                  }
+                ]
+              },
+              {
+                "year": 2023,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 600,
+                      "female": 620
+                    },
+                    "sc": {
+                      "male": 1100,
+                      "female": 1120
+                    },
+                    "st": {
+                      "male": 1600,
+                      "female": 1620
+                    },
+                    "ews": {
+                      "male": 800,
+                      "female": 820
+                    },
+                    "obcncl": {
+                      "male": 700,
+                      "female": 720
+                    },
+                    "ewspwd": {
+                      "male": 2100,
+                      "female": 2120
+                    },
+                    "generalpwd": {
+                      "male": 2600,
+                      "female": 2620
+                    },
+                    "obcnclpwd": {
+                      "male": 3100,
+                      "female": 3120
+                    },
+                    "scpwd": {
+                      "male": 3600,
+                      "female": 3620
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 650,
+                      "female": 670
+                    },
+                    "sc": {
+                      "male": 1150,
+                      "female": 1170
+                    },
+                    "st": {
+                      "male": 1650,
+                      "female": 1670
+                    },
+                    "ews": {
+                      "male": 850,
+                      "female": 870
+                    },
+                    "obcncl": {
+                      "male": 750,
+                      "female": 770
+                    },
+                    "ewspwd": {
+                      "male": 2150,
+                      "female": 2170
+                    },
+                    "generalpwd": {
+                      "male": 2650,
+                      "female": 2670
+                    },
+                    "obcnclpwd": {
+                      "male": 3150,
+                      "female": 3170
+                    },
+                    "scpwd": {
+                      "male": 3650,
+                      "female": 3670
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 700,
+                      "female": 720
+                    },
+                    "sc": {
+                      "male": 1200,
+                      "female": 1220
+                    },
+                    "st": {
+                      "male": 1700,
+                      "female": 1720
+                    },
+                    "ews": {
+                      "male": 900,
+                      "female": 920
+                    },
+                    "obcncl": {
+                      "male": 800,
+                      "female": 820
+                    },
+                    "ewspwd": {
+                      "male": 2200,
+                      "female": 2220
+                    },
+                    "generalpwd": {
+                      "male": 2700,
+                      "female": 2720
+                    },
+                    "obcnclpwd": {
+                      "male": 3200,
+                      "female": 3220
+                    },
+                    "scpwd": {
+                      "male": 3700,
+                      "female": 3720
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "branchname": "Computer Engineering",
+            "duration": 4,
+            "eligibility": "10+2",
+            "fee": 430000,
+            "ranking": 11,
+            "rankingframework": "NIRF",
+            "totalseats": 115,
+            "highestsalary": 1350000,
+            "averagesalary": 730000,
+            "cutoff": [
+              {
+                "year": 2022,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 520,
+                      "female": 540
+                    },
+                    "sc": {
+                      "male": 1020,
+                      "female": 1040
+                    },
+                    "st": {
+                      "male": 1520,
+                      "female": 1540
+                    },
+                    "ews": {
+                      "male": 720,
+                      "female": 740
+                    },
+                    "obcncl": {
+                      "male": 620,
+                      "female": 640
+                    },
+                    "ewspwd": {
+                      "male": 2020,
+                      "female": 2040
+                    },
+                    "generalpwd": {
+                      "male": 2520,
+                      "female": 2540
+                    },
+                    "obcnclpwd": {
+                      "male": 3020,
+                      "female": 3040
+                    },
+                    "scpwd": {
+                      "male": 3520,
+                      "female": 3540
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 570,
+                      "female": 590
+                    },
+                    "sc": {
+                      "male": 1070,
+                      "female": 1090
+                    },
+                    "st": {
+                      "male": 1570,
+                      "female": 1590
+                    },
+                    "ews": {
+                      "male": 770,
+                      "female": 790
+                    },
+                    "obcncl": {
+                      "male": 670,
+                      "female": 690
+                    },
+                    "ewspwd": {
+                      "male": 2070,
+                      "female": 2090
+                    },
+                    "generalpwd": {
+                      "male": 2570,
+                      "female": 2590
+                    },
+                    "obcnclpwd": {
+                      "male": 3070,
+                      "female": 3090
+                    },
+                    "scpwd": {
+                      "male": 3570,
+                      "female": 3590
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 620,
+                      "female": 640
+                    },
+                    "sc": {
+                      "male": 1120,
+                      "female": 1140
+                    },
+                    "st": {
+                      "male": 1620,
+                      "female": 1640
+                    },
+                    "ews": {
+                      "male": 820,
+                      "female": 840
+                    },
+                    "obcncl": {
+                      "male": 720,
+                      "female": 740
+                    },
+                    "ewspwd": {
+                      "male": 2120,
+                      "female": 2140
+                    },
+                    "generalpwd": {
+                      "male": 2620,
+                      "female": 2640
+                    },
+                    "obcnclpwd": {
+                      "male": 3120,
+                      "female": 3140
+                    },
+                    "scpwd": {
+                      "male": 3620,
+                      "female": 3640
+                    }
+                  }
+                ]
+              },
+              {
+                "year": 2023,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 500,
+                      "female": 520
+                    },
+                    "sc": {
+                      "male": 1000,
+                      "female": 1020
+                    },
+                    "st": {
+                      "male": 1500,
+                      "female": 1520
+                    },
+                    "ews": {
+                      "male": 700,
+                      "female": 720
+                    },
+                    "obcncl": {
+                      "male": 600,
+                      "female": 620
+                    },
+                    "ewspwd": {
+                      "male": 2000,
+                      "female": 2020
+                    },
+                    "generalpwd": {
+                      "male": 2500,
+                      "female": 2520
+                    },
+                    "obcnclpwd": {
+                      "male": 3000,
+                      "female": 3020
+                    },
+                    "scpwd": {
+                      "male": 3500,
+                      "female": 3520
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 550,
+                      "female": 570
+                    },
+                    "sc": {
+                      "male": 1050,
+                      "female": 1070
+                    },
+                    "st": {
+                      "male": 1550,
+                      "female": 1570
+                    },
+                    "ews": {
+                      "male": 750,
+                      "female": 770
+                    },
+                    "obcncl": {
+                      "male": 650,
+                      "female": 670
+                    },
+                    "ewspwd": {
+                      "male": 2050,
+                      "female": 2070
+                    },
+                    "generalpwd": {
+                      "male": 2550,
+                      "female": 2570
+                    },
+                    "obcnclpwd": {
+                      "male": 3050,
+                      "female": 3070
+                    },
+                    "scpwd": {
+                      "male": 3550,
+                      "female": 3570
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 600,
+                      "female": 620
+                    },
+                    "sc": {
+                      "male": 1100,
+                      "female": 1120
+                    },
+                    "st": {
+                      "male": 1600,
+                      "female": 1620
+                    },
+                    "ews": {
+                      "male": 800,
+                      "female": 820
+                    },
+                    "obcncl": {
+                      "male": 700,
+                      "female": 720
+                    },
+                    "ewspwd": {
+                      "male": 2100,
+                      "female": 2120
+                    },
+                    "generalpwd": {
+                      "male": 2600,
+                      "female": 2620
+                    },
+                    "obcnclpwd": {
+                      "male": 3100,
+                      "female": 3120
+                    },
+                    "scpwd": {
+                      "male": 3600,
+                      "female": 3620
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "collegename": "GHI University",
+    "address": "789 Uni Plaza",
+    "image": "http://example.com/ghi.jpg",
+    "city": "Unicity",
+    "state": "Unistate",
+    "country": "Uniland",
+    "contact": 1122334455,
+    "email": "admissions@ghiuni.edu",
+    "website": "http://ghiuni.edu",
+    "approvedaurthority": "UGC",
+    "userrating": 4.7,
+    "totalrating": 2000,
+    "hostel": true,
+    "startupincubation": true,
+    "sports": true,
+    "courses": [
+      {
+        "coursename": "MTech",
+        "branches": [
+          {
+            "branchname": "Information Technology",
+            "duration": 2,
+            "eligibility": "BTech",
+            "fee": 230000,
+            "ranking": 7,
+            "rankingframework": "NIRF",
+            "totalseats": 45,
+            "highestsalary": 1400000,
+            "averagesalary": 700000,
+            "cutoff": [
+              {
+                "year": 2022,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 450,
+                      "female": 470
+                    },
+                    "sc": {
+                      "male": 950,
+                      "female": 970
+                    },
+                    "st": {
+                      "male": 1450,
+                      "female": 1470
+                    },
+                    "ews": {
+                      "male": 650,
+                      "female": 670
+                    },
+                    "obcncl": {
+                      "male": 550,
+                      "female": 570
+                    },
+                    "ewspwd": {
+                      "male": 1950,
+                      "female": 1970
+                    },
+                    "generalpwd": {
+                      "male": 2450,
+                      "female": 2470
+                    },
+                    "obcnclpwd": {
+                      "male": 2950,
+                      "female": 2970
+                    },
+                    "scpwd": {
+                      "male": 3450,
+                      "female": 3470
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 500,
+                      "female": 520
+                    },
+                    "sc": {
+                      "male": 1000,
+                      "female": 1020
+                    },
+                    "st": {
+                      "male": 1500,
+                      "female": 1520
+                    },
+                    "ews": {
+                      "male": 700,
+                      "female": 720
+                    },
+                    "obcncl": {
+                      "male": 600,
+                      "female": 620
+                    },
+                    "ewspwd": {
+                      "male": 2000,
+                      "female": 2020
+                    },
+                    "generalpwd": {
+                      "male": 2500,
+                      "female": 2520
+                    },
+                    "obcnclpwd": {
+                      "male": 3000,
+                      "female": 3020
+                    },
+                    "scpwd": {
+                      "male": 3500,
+                      "female": 3520
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 550,
+                      "female": 570
+                    },
+                    "sc": {
+                      "male": 1050,
+                      "female": 1070
+                    },
+                    "st": {
+                      "male": 1550,
+                      "female": 1570
+                    },
+                    "ews": {
+                      "male": 750,
+                      "female": 770
+                    },
+                    "obcncl": {
+                      "male": 650,
+                      "female": 670
+                    },
+                    "ewspwd": {
+                      "male": 2050,
+                      "female": 2070
+                    },
+                    "generalpwd": {
+                      "male": 2550,
+                      "female": 2570
+                    },
+                    "obcnclpwd": {
+                      "male": 3050,
+                      "female": 3070
+                    },
+                    "scpwd": {
+                      "male": 3550,
+                      "female": 3570
+                    }
+                  }
+                ]
+              },
+              {
+                "year": 2023,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 430,
+                      "female": 450
+                    },
+                    "sc": {
+                      "male": 930,
+                      "female": 950
+                    },
+                    "st": {
+                      "male": 1430,
+                      "female": 1450
+                    },
+                    "ews": {
+                      "male": 630,
+                      "female": 650
+                    },
+                    "obcncl": {
+                      "male": 530,
+                      "female": 550
+                    },
+                    "ewspwd": {
+                      "male": 1930,
+                      "female": 1950
+                    },
+                    "generalpwd": {
+                      "male": 2430,
+                      "female": 2450
+                    },
+                    "obcnclpwd": {
+                      "male": 2930,
+                      "female": 2950
+                    },
+                    "scpwd": {
+                      "male": 3430,
+                      "female": 3450
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 480,
+                      "female": 500
+                    },
+                    "sc": {
+                      "male": 980,
+                      "female": 1000
+                    },
+                    "st": {
+                      "male": 1480,
+                      "female": 1500
+                    },
+                    "ews": {
+                      "male": 680,
+                      "female": 700
+                    },
+                    "obcncl": {
+                      "male": 580,
+                      "female": 600
+                    },
+                    "ewspwd": {
+                      "male": 1980,
+                      "female": 2000
+                    },
+                    "generalpwd": {
+                      "male": 2480,
+                      "female": 2500
+                    },
+                    "obcnclpwd": {
+                      "male": 2980,
+                      "female": 3000
+                    },
+                    "scpwd": {
+                      "male": 3480,
+                      "female": 3500
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 530,
+                      "female": 550
+                    },
+                    "sc": {
+                      "male": 1030,
+                      "female": 1050
+                    },
+                    "st": {
+                      "male": 1530,
+                      "female": 1550
+                    },
+                    "ews": {
+                      "male": 730,
+                      "female": 750
+                    },
+                    "obcncl": {
+                      "male": 630,
+                      "female": 650
+                    },
+                    "ewspwd": {
+                      "male": 2030,
+                      "female": 2050
+                    },
+                    "generalpwd": {
+                      "male": 2530,
+                      "female": 2550
+                    },
+                    "obcnclpwd": {
+                      "male": 3030,
+                      "female": 3050
+                    },
+                    "scpwd": {
+                      "male": 3530,
+                      "female": 3550
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "branchname": "Computer Engineering",
+            "duration": 2,
+            "eligibility": "BTech",
+            "fee": 240000,
+            "ranking": 6,
+            "rankingframework": "NIRF",
+            "totalseats": 50,
+            "highestsalary": 1500000,
+            "averagesalary": 750000,
+            "cutoff": [
+              {
+                "year": 2022,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 360,
+                      "female": 380
+                    },
+                    "sc": {
+                      "male": 860,
+                      "female": 880
+                    },
+                    "st": {
+                      "male": 1360,
+                      "female": 1380
+                    },
+                    "ews": {
+                      "male": 560,
+                      "female": 580
+                    },
+                    "obcncl": {
+                      "male": 460,
+                      "female": 480
+                    },
+                    "ewspwd": {
+                      "male": 1860,
+                      "female": 1880
+                    },
+                    "generalpwd": {
+                      "male": 2360,
+                      "female": 2380
+                    },
+                    "obcnclpwd": {
+                      "male": 2860,
+                      "female": 2880
+                    },
+                    "scpwd": {
+                      "male": 3360,
+                      "female": 3380
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 410,
+                      "female": 430
+                    },
+                    "sc": {
+                      "male": 910,
+                      "female": 930
+                    },
+                    "st": {
+                      "male": 1410,
+                      "female": 1430
+                    },
+                    "ews": {
+                      "male": 610,
+                      "female": 630
+                    },
+                    "obcncl": {
+                      "male": 510,
+                      "female": 530
+                    },
+                    "ewspwd": {
+                      "male": 1910,
+                      "female": 1930
+                    },
+                    "generalpwd": {
+                      "male": 2410,
+                      "female": 2430
+                    },
+                    "obcnclpwd": {
+                      "male": 2910,
+                      "female": 2930
+                    },
+                    "scpwd": {
+                      "male": 3410,
+                      "female": 3430
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 460,
+                      "female": 480
+                    },
+                    "sc": {
+                      "male": 960,
+                      "female": 980
+                    },
+                    "st": {
+                      "male": 1460,
+                      "female": 1480
+                    },
+                    "ews": {
+                      "male": 660,
+                      "female": 680
+                    },
+                    "obcncl": {
+                      "male": 560,
+                      "female": 580
+                    },
+                    "ewspwd": {
+                      "male": 1960,
+                      "female": 1980
+                    },
+                    "generalpwd": {
+                      "male": 2460,
+                      "female": 2480
+                    },
+                    "obcnclpwd": {
+                      "male": 2960,
+                      "female": 2980
+                    },
+                    "scpwd": {
+                      "male": 3460,
+                      "female": 3480
+                    }
+                  }
+                ]
+              },
+              {
+                "year": 2023,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 340,
+                      "female": 360
+                    },
+                    "sc": {
+                      "male": 840,
+                      "female": 860
+                    },
+                    "st": {
+                      "male": 1340,
+                      "female": 1360
+                    },
+                    "ews": {
+                      "male": 540,
+                      "female": 560
+                    },
+                    "obcncl": {
+                      "male": 440,
+                      "female": 460
+                    },
+                    "ewspwd": {
+                      "male": 1840,
+                      "female": 1860
+                    },
+                    "generalpwd": {
+                      "male": 2340,
+                      "female": 2360
+                    },
+                    "obcnclpwd": {
+                      "male": 2840,
+                      "female": 2860
+                    },
+                    "scpwd": {
+                      "male": 3340,
+                      "female": 3360
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 390,
+                      "female": 410
+                    },
+                    "sc": {
+                      "male": 890,
+                      "female": 910
+                    },
+                    "st": {
+                      "male": 1390,
+                      "female": 1410
+                    },
+                    "ews": {
+                      "male": 590,
+                      "female": 610
+                    },
+                    "obcncl": {
+                      "male": 490,
+                      "female": 510
+                    },
+                    "ewspwd": {
+                      "male": 1890,
+                      "female": 1910
+                    },
+                    "generalpwd": {
+                      "male": 2390,
+                      "female": 2410
+                    },
+                    "obcnclpwd": {
+                      "male": 2890,
+                      "female": 2910
+                    },
+                    "scpwd": {
+                      "male": 3390,
+                      "female": 3410
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 440,
+                      "female": 460
+                    },
+                    "sc": {
+                      "male": 940,
+                      "female": 960
+                    },
+                    "st": {
+                      "male": 1440,
+                      "female": 1460
+                    },
+                    "ews": {
+                      "male": 640,
+                      "female": 660
+                    },
+                    "obcncl": {
+                      "male": 540,
+                      "female": 560
+                    },
+                    "ewspwd": {
+                      "male": 1940,
+                      "female": 1960
+                    },
+                    "generalpwd": {
+                      "male": 2440,
+                      "female": 2460
+                    },
+                    "obcnclpwd": {
+                      "male": 2940,
+                      "female": 2960
+                    },
+                    "scpwd": {
+                      "male": 3440,
+                      "female": 3460
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "coursename": "BTech",
+        "branches": [
+          {
+            "branchname": "Information Technology",
+            "duration": 4,
+            "eligibility": "10+2",
+            "fee": 440000,
+            "ranking": 9,
+            "rankingframework": "NIRF",
+            "totalseats": 90,
+            "highestsalary": 1600000,
+            "averagesalary": 800000,
+            "cutoff": [
+              {
+                "year": 2022,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 520,
+                      "female": 540
+                    },
+                    "sc": {
+                      "male": 1020,
+                      "female": 1040
+                    },
+                    "st": {
+                      "male": 1520,
+                      "female": 1540
+                    },
+                    "ews": {
+                      "male": 720,
+                      "female": 740
+                    },
+                    "obcncl": {
+                      "male": 620,
+                      "female": 640
+                    },
+                    "ewspwd": {
+                      "male": 2020,
+                      "female": 2040
+                    },
+                    "generalpwd": {
+                      "male": 2520,
+                      "female": 2540
+                    },
+                    "obcnclpwd": {
+                      "male": 3020,
+                      "female": 3040
+                    },
+                    "scpwd": {
+                      "male": 3520,
+                      "female": 3540
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 570,
+                      "female": 590
+                    },
+                    "sc": {
+                      "male": 1070,
+                      "female": 1090
+                    },
+                    "st": {
+                      "male": 1570,
+                      "female": 1590
+                    },
+                    "ews": {
+                      "male": 770,
+                      "female": 790
+                    },
+                    "obcncl": {
+                      "male": 670,
+                      "female": 690
+                    },
+                    "ewspwd": {
+                      "male": 2070,
+                      "female": 2090
+                    },
+                    "generalpwd": {
+                      "male": 2570,
+                      "female": 2590
+                    },
+                    "obcnclpwd": {
+                      "male": 3070,
+                      "female": 3090
+                    },
+                    "scpwd": {
+                      "male": 3570,
+                      "female": 3590
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 620,
+                      "female": 640
+                    },
+                    "sc": {
+                      "male": 1120,
+                      "female": 1140
+                    },
+                    "st": {
+                      "male": 1620,
+                      "female": 1640
+                    },
+                    "ews": {
+                      "male": 820,
+                      "female": 840
+                    },
+                    "obcncl": {
+                      "male": 720,
+                      "female": 740
+                    },
+                    "ewspwd": {
+                      "male": 2120,
+                      "female": 2140
+                    },
+                    "generalpwd": {
+                      "male": 2620,
+                      "female": 2640
+                    },
+                    "obcnclpwd": {
+                      "male": 3120,
+                      "female": 3140
+                    },
+                    "scpwd": {
+                      "male": 3620,
+                      "female": 3640
+                    }
+                  }
+                ]
+              },
+              {
+                "year": 2023,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 500,
+                      "female": 520
+                    },
+                    "sc": {
+                      "male": 1000,
+                      "female": 1020
+                    },
+                    "st": {
+                      "male": 1500,
+                      "female": 1520
+                    },
+                    "ews": {
+                      "male": 700,
+                      "female": 720
+                    },
+                    "obcncl": {
+                      "male": 600,
+                      "female": 620
+                    },
+                    "ewspwd": {
+                      "male": 2000,
+                      "female": 2020
+                    },
+                    "generalpwd": {
+                      "male": 2500,
+                      "female": 2520
+                    },
+                    "obcnclpwd": {
+                      "male": 3000,
+                      "female": 3020
+                    },
+                    "scpwd": {
+                      "male": 3500,
+                      "female": 3520
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 550,
+                      "female": 570
+                    },
+                    "sc": {
+                      "male": 1050,
+                      "female": 1070
+                    },
+                    "st": {
+                      "male": 1550,
+                      "female": 1570
+                    },
+                    "ews": {
+                      "male": 750,
+                      "female": 770
+                    },
+                    "obcncl": {
+                      "male": 650,
+                      "female": 670
+                    },
+                    "ewspwd": {
+                      "male": 2050,
+                      "female": 2070
+                    },
+                    "generalpwd": {
+                      "male": 2550,
+                      "female": 2570
+                    },
+                    "obcnclpwd": {
+                      "male": 3050,
+                      "female": 3070
+                    },
+                    "scpwd": {
+                      "male": 3550,
+                      "female": 3570
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 600,
+                      "female": 620
+                    },
+                    "sc": {
+                      "male": 1100,
+                      "female": 1120
+                    },
+                    "st": {
+                      "male": 1600,
+                      "female": 1620
+                    },
+                    "ews": {
+                      "male": 800,
+                      "female": 820
+                    },
+                    "obcncl": {
+                      "male": 700,
+                      "female": 720
+                    },
+                    "ewspwd": {
+                      "male": 2100,
+                      "female": 2120
+                    },
+                    "generalpwd": {
+                      "male": 2600,
+                      "female": 2620
+                    },
+                    "obcnclpwd": {
+                      "male": 3100,
+                      "female": 3120
+                    },
+                    "scpwd": {
+                      "male": 3600,
+                      "female": 3620
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "branchname": "Computer Engineering",
+            "duration": 4,
+            "eligibility": "10+2",
+            "fee": 450000,
+            "ranking": 5,
+            "rankingframework": "NIRF",
+            "totalseats": 95,
+            "highestsalary": 1550000,
+            "averagesalary": 820000,
+            "cutoff": [
+              {
+                "year": 2022,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 480,
+                      "female": 500
+                    },
+                    "sc": {
+                      "male": 980,
+                      "female": 1000
+                    },
+                    "st": {
+                      "male": 1480,
+                      "female": 1500
+                    },
+                    "ews": {
+                      "male": 680,
+                      "female": 700
+                    },
+                    "obcncl": {
+                      "male": 580,
+                      "female": 600
+                    },
+                    "ewspwd": {
+                      "male": 1980,
+                      "female": 2000
+                    },
+                    "generalpwd": {
+                      "male": 2480,
+                      "female": 2500
+                    },
+                    "obcnclpwd": {
+                      "male": 2980,
+                      "female": 3000
+                    },
+                    "scpwd": {
+                      "male": 3480,
+                      "female": 3500
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 530,
+                      "female": 550
+                    },
+                    "sc": {
+                      "male": 1030,
+                      "female": 1050
+                    },
+                    "st": {
+                      "male": 1530,
+                      "female": 1550
+                    },
+                    "ews": {
+                      "male": 730,
+                      "female": 750
+                    },
+                    "obcncl": {
+                      "male": 630,
+                      "female": 650
+                    },
+                    "ewspwd": {
+                      "male": 2030,
+                      "female": 2050
+                    },
+                    "generalpwd": {
+                      "male": 2530,
+                      "female": 2550
+                    },
+                    "obcnclpwd": {
+                      "male": 3030,
+                      "female": 3050
+                    },
+                    "scpwd": {
+                      "male": 3530,
+                      "female": 3550
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 580,
+                      "female": 600
+                    },
+                    "sc": {
+                      "male": 1080,
+                      "female": 1100
+                    },
+                    "st": {
+                      "male": 1580,
+                      "female": 1600
+                    },
+                    "ews": {
+                      "male": 780,
+                      "female": 800
+                    },
+                    "obcncl": {
+                      "male": 680,
+                      "female": 700
+                    },
+                    "ewspwd": {
+                      "male": 2080,
+                      "female": 2100
+                    },
+                    "generalpwd": {
+                      "male": 2580,
+                      "female": 2600
+                    },
+                    "obcnclpwd": {
+                      "male": 3080,
+                      "female": 3100
+                    },
+                    "scpwd": {
+                      "male": 3580,
+                      "female": 3600
+                    }
+                  }
+                ]
+              },
+              {
+                "year": 2023,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 460,
+                      "female": 480
+                    },
+                    "sc": {
+                      "male": 960,
+                      "female": 980
+                    },
+                    "st": {
+                      "male": 1460,
+                      "female": 1480
+                    },
+                    "ews": {
+                      "male": 660,
+                      "female": 680
+                    },
+                    "obcncl": {
+                      "male": 560,
+                      "female": 580
+                    },
+                    "ewspwd": {
+                      "male": 1960,
+                      "female": 1980
+                    },
+                    "generalpwd": {
+                      "male": 2460,
+                      "female": 2480
+                    },
+                    "obcnclpwd": {
+                      "male": 2960,
+                      "female": 2980
+                    },
+                    "scpwd": {
+                      "male": 3460,
+                      "female": 3480
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 510,
+                      "female": 530
+                    },
+                    "sc": {
+                      "male": 1010,
+                      "female": 1030
+                    },
+                    "st": {
+                      "male": 1510,
+                      "female": 1530
+                    },
+                    "ews": {
+                      "male": 710,
+                      "female": 730
+                    },
+                    "obcncl": {
+                      "male": 610,
+                      "female": 630
+                    },
+                    "ewspwd": {
+                      "male": 2010,
+                      "female": 2030
+                    },
+                    "generalpwd": {
+                      "male": 2510,
+                      "female": 2530
+                    },
+                    "obcnclpwd": {
+                      "male": 3010,
+                      "female": 3030
+                    },
+                    "scpwd": {
+                      "male": 3510,
+                      "female": 3530
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 560,
+                      "female": 580
+                    },
+                    "sc": {
+                      "male": 1060,
+                      "female": 1080
+                    },
+                    "st": {
+                      "male": 1560,
+                      "female": 1580
+                    },
+                    "ews": {
+                      "male": 760,
+                      "female": 780
+                    },
+                    "obcncl": {
+                      "male": 660,
+                      "female": 680
+                    },
+                    "ewspwd": {
+                      "male": 2060,
+                      "female": 2080
+                    },
+                    "generalpwd": {
+                      "male": 2560,
+                      "female": 2580
+                    },
+                    "obcnclpwd": {
+                      "male": 3060,
+                      "female": 3080
+                    },
+                    "scpwd": {
+                      "male": 3560,
+                      "female": 3580
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "collegename": "JKL Institute",
+    "address": "101 Tech Street",
+    "image": "http://example.com/jkl.jpg",
+    "city": "Innotown",
+    "state": "Innovate",
+    "country": "Innovatia",
+    "contact": 5566778899,
+    "email": "info@jklinst.edu",
+    "website": "http://jklinst.edu",
+    "approvedaurthority": "AICTE",
+    "userrating": 4.2,
+    "totalrating": 1200,
+    "hostel": true,
+    "startupincubation": false,
+    "sports": false,
+    "courses": [
+      {
+        "coursename": "MTech",
+        "branches": [
+          {
+            "branchname": "Information Technology",
+            "duration": 2,
+            "eligibility": "BTech",
+            "fee": 220000,
+            "ranking": 13,
+            "rankingframework": "NIRF",
+            "totalseats": 50,
+            "highestsalary": 1050000,
+            "averagesalary": 650000,
+            "cutoff": [
+              {
+                "year": 2022,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 600,
+                      "female": 620
+                    },
+                    "sc": {
+                      "male": 1100,
+                      "female": 1120
+                    },
+                    "st": {
+                      "male": 1600,
+                      "female": 1620
+                    },
+                    "ews": {
+                      "male": 800,
+                      "female": 820
+                    },
+                    "obcncl": {
+                      "male": 700,
+                      "female": 720
+                    },
+                    "ewspwd": {
+                      "male": 2100,
+                      "female": 2120
+                    },
+                    "generalpwd": {
+                      "male": 2600,
+                      "female": 2620
+                    },
+                    "obcnclpwd": {
+                      "male": 3100,
+                      "female": 3120
+                    },
+                    "scpwd": {
+                      "male": 3600,
+                      "female": 3620
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 650,
+                      "female": 670
+                    },
+                    "sc": {
+                      "male": 1150,
+                      "female": 1170
+                    },
+                    "st": {
+                      "male": 1650,
+                      "female": 1670
+                    },
+                    "ews": {
+                      "male": 850,
+                      "female": 870
+                    },
+                    "obcncl": {
+                      "male": 750,
+                      "female": 770
+                    },
+                    "ewspwd": {
+                      "male": 2150,
+                      "female": 2170
+                    },
+                    "generalpwd": {
+                      "male": 2650,
+                      "female": 2670
+                    },
+                    "obcnclpwd": {
+                      "male": 3150,
+                      "female": 3170
+                    },
+                    "scpwd": {
+                      "male": 3650,
+                      "female": 3670
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 700,
+                      "female": 720
+                    },
+                    "sc": {
+                      "male": 1200,
+                      "female": 1220
+                    },
+                    "st": {
+                      "male": 1700,
+                      "female": 1720
+                    },
+                    "ews": {
+                      "male": 900,
+                      "female": 920
+                    },
+                    "obcncl": {
+                      "male": 800,
+                      "female": 820
+                    },
+                    "ewspwd": {
+                      "male": 2200,
+                      "female": 2220
+                    },
+                    "generalpwd": {
+                      "male": 2700,
+                      "female": 2720
+                    },
+                    "obcnclpwd": {
+                      "male": 3200,
+                      "female": 3220
+                    },
+                    "scpwd": {
+                      "male": 3700,
+                      "female": 3720
+                    }
+                  }
+                ]
+              },
+              {
+                "year": 2023,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 580,
+                      "female": 600
+                    },
+                    "sc": {
+                      "male": 1080,
+                      "female": 1100
+                    },
+                    "st": {
+                      "male": 1580,
+                      "female": 1600
+                    },
+                    "ews": {
+                      "male": 780,
+                      "female": 800
+                    },
+                    "obcncl": {
+                      "male": 680,
+                      "female": 700
+                    },
+                    "ewspwd": {
+                      "male": 2080,
+                      "female": 2100
+                    },
+                    "generalpwd": {
+                      "male": 2580,
+                      "female": 2600
+                    },
+                    "obcnclpwd": {
+                      "male": 3080,
+                      "female": 3100
+                    },
+                    "scpwd": {
+                      "male": 3580,
+                      "female": 3600
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 630,
+                      "female": 650
+                    },
+                    "sc": {
+                      "male": 1130,
+                      "female": 1150
+                    },
+                    "st": {
+                      "male": 1630,
+                      "female": 1650
+                    },
+                    "ews": {
+                      "male": 830,
+                      "female": 850
+                    },
+                    "obcncl": {
+                      "male": 730,
+                      "female": 750
+                    },
+                    "ewspwd": {
+                      "male": 2130,
+                      "female": 2150
+                    },
+                    "generalpwd": {
+                      "male": 2630,
+                      "female": 2650
+                    },
+                    "obcnclpwd": {
+                      "male": 3130,
+                      "female": 3150
+                    },
+                    "scpwd": {
+                      "male": 3630,
+                      "female": 3650
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 680,
+                      "female": 700
+                    },
+                    "sc": {
+                      "male": 1180,
+                      "female": 1200
+                    },
+                    "st": {
+                      "male": 1680,
+                      "female": 1700
+                    },
+                    "ews": {
+                      "male": 880,
+                      "female": 900
+                    },
+                    "obcncl": {
+                      "male": 780,
+                      "female": 800
+                    },
+                    "ewspwd": {
+                      "male": 2180,
+                      "female": 2200
+                    },
+                    "generalpwd": {
+                      "male": 2680,
+                      "female": 2700
+                    },
+                    "obcnclpwd": {
+                      "male": 3180,
+                      "female": 3200
+                    },
+                    "scpwd": {
+                      "male": 3680,
+                      "female": 3700
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "branchname": "Computer Engineering",
+            "duration": 2,
+            "eligibility": "BTech",
+            "fee": 230000,
+            "ranking": 11,
+            "rankingframework": "NIRF",
+            "totalseats": 60,
+            "highestsalary": 1150000,
+            "averagesalary": 680000,
+            "cutoff": [
+              {
+                "year": 2022,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 450,
+                      "female": 470
+                    },
+                    "sc": {
+                      "male": 950,
+                      "female": 970
+                    },
+                    "st": {
+                      "male": 1450,
+                      "female": 1470
+                    },
+                    "ews": {
+                      "male": 650,
+                      "female": 670
+                    },
+                    "obcncl": {
+                      "male": 550,
+                      "female": 570
+                    },
+                    "ewspwd": {
+                      "male": 1950,
+                      "female": 1970
+                    },
+                    "generalpwd": {
+                      "male": 2450,
+                      "female": 2470
+                    },
+                    "obcnclpwd": {
+                      "male": 2950,
+                      "female": 2970
+                    },
+                    "scpwd": {
+                      "male": 3450,
+                      "female": 3470
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 500,
+                      "female": 520
+                    },
+                    "sc": {
+                      "male": 1000,
+                      "female": 1020
+                    },
+                    "st": {
+                      "male": 1500,
+                      "female": 1520
+                    },
+                    "ews": {
+                      "male": 700,
+                      "female": 720
+                    },
+                    "obcncl": {
+                      "male": 600,
+                      "female": 620
+                    },
+                    "ewspwd": {
+                      "male": 2000,
+                      "female": 2020
+                    },
+                    "generalpwd": {
+                      "male": 2500,
+                      "female": 2520
+                    },
+                    "obcnclpwd": {
+                      "male": 3000,
+                      "female": 3020
+                    },
+                    "scpwd": {
+                      "male": 3500,
+                      "female": 3520
+                    }
+                  },
+                  {
+                    "round": 3,
+                    "general": {
+                      "male": 550,
+                      "female": 570
+                    },
+                    "sc": {
+                      "male": 1050,
+                      "female": 1070
+                    },
+                    "st": {
+                      "male": 1550,
+                      "female": 1570
+                    },
+                    "ews": {
+                      "male": 750,
+                      "female": 770
+                    },
+                    "obcncl": {
+                      "male": 650,
+                      "female": 670
+                    },
+                    "ewspwd": {
+                      "male": 2050,
+                      "female": 2070
+                    },
+                    "generalpwd": {
+                      "male": 2550,
+                      "female": 2570
+                    },
+                    "obcnclpwd": {
+                      "male": 3050,
+                      "female": 3070
+                    },
+                    "scpwd": {
+                      "male": 3550,
+                      "female": 3570
+                    }
+                  }
+                ]
+              },
+              {
+                "year": 2023,
+                "rounds": [
+                  {
+                    "round": 1,
+                    "general": {
+                      "male": 430,
+                      "female": 450
+                    },
+                    "sc": {
+                      "male": 930,
+                      "female": 950
+                    },
+                    "st": {
+                      "male": 1430,
+                      "female": 1450
+                    },
+                    "ews": {
+                      "male": 630,
+                      "female": 650
+                    },
+                    "obcncl": {
+                      "male": 530,
+                      "female": 550
+                    },
+                    "ewspwd": {
+                      "male": 1930,
+                      "female": 1950
+                    },
+                    "generalpwd": {
+                      "male": 2430,
+                      "female": 2450
+                    },
+                    "obcnclpwd": {
+                      "male": 2930,
+                      "female": 2950
+                    },
+                    "scpwd": {
+                      "male": 3430,
+                      "female": 3450
+                    }
+                  },
+                  {
+                    "round": 2,
+                    "general": {
+                      "male": 480,
+                      "female": 500
+                    },
+                    "sc": {
+                      "male": 980,
+                      "female": 1000
+                    },
+                    "st": {
+                      "male": 1480,
+                      "female": 1500
+                    },
+                    "ews": {
+                      "male": 680,
+                      "female": 700
+                    },
+                    "obcncl": {
+                      "male": 580,
+                      "female": 600
+                    },
+                    "ewspwd": {
+                      "male": 1980,
+                      "female": 2000
+                    },
+                    "generalpwd": {
+                      "male": 2480,
+                      "female": 2500
+                    },
+                    "obcnclpwd": {
+                      "male": 2980,
+                      "female": 3000
+                    },
+                    "scpwd": {
+                      "male": 3480,
+                      "female": 3500
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

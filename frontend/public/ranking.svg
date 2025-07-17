@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Gradient definition -->
+  <linearGradient id="rankingGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" style="stop-color:#FF5722;stop-opacity:1" />
+    <stop offset="100%" style="stop-color:#FFC107;stop-opacity:1" />
+  </linearGradient>
+  
+  <!-- Background rectangles with gradient fill -->
+  <rect x="10" y="40" width="8" height="14" rx="2" fill="url(#rankingGradient)" />
+  <rect x="24" y="28" width="8" height="26" rx="2" fill="url(#rankingGradient)" />
+  <rect x="38" y="16" width="8" height="38" rx="2" fill="url(#rankingGradient)" />
+  <rect x="52" y="4" width="8" height="50" rx="2" fill="url(#rankingGradient)" />
+  
+  <!-- Arrow going upwards -->
+  <path d="M32,10 L32,2 L28,6 L26,8 L28,6 L32,2 L36,6 L34,8 L36,6 Z" fill="#2196F3" />
+  
+  <!-- Zigzag graph with last point slightly dipping up -->
+  <polyline points="8,58 18,48 30,52 40,46 58,5" fill="none" stroke="#2196F3" stroke-width="2" />
+</svg>
